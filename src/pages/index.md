@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: ''
     features:
-      - title: lorem-ipsum
+      - title: Agility Series
         content: hihi
         align: left
         image_alt: lorem-ipsum
