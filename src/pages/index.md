@@ -44,6 +44,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/feature.svg
       - title: Partners
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
