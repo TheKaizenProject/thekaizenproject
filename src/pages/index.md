@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to The Kaizen Project
-    subtitle: Here at Kaizen we'll talk about all things
+    subtitle: >-
+      Here at Kaizen we'll talk about all things student life and career
+      development
     actions:
       - label: Learn More
         url: /features
