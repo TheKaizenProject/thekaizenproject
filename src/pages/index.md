@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to The Kaizen Project
-    subtitle: 'Here at the '
+    subtitle: Here at Kaizen we'll talk about all things
     actions:
       - label: Learn More
         url: /features
