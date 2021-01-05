@@ -50,7 +50,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
-          - label: Learn More
+          - label: YouTube
             url: /features
             style: secondary
   - type: blog_feed_section
