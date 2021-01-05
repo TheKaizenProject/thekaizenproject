@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: H1
 template: page
 ---
 
