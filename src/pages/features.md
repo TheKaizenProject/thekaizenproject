@@ -5,6 +5,13 @@ sections:
     title: Partners
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
   - type: features_section
     features:
       - title: Feature 1
