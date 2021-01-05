@@ -12,11 +12,9 @@ sections:
 
       podcast and our other initiatives were started last year under Illuminare,
       a Junior Achievement company based in Markham run entirely by a group of
-      19 driven highschool students. 
+      19 driven highschool students.  
 
-
-      ***
-
+      ###
 
       Illuminare recently won the Company of the Year award from Junior
       Achievement Central Ontario for placing as the top social enterprise out
