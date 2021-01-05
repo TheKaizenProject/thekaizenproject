@@ -6,18 +6,18 @@ sections:
     align: center
   - type: content_section
     content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
+      The Kaizen Project is a podcast discussing student life and career
+      exploration through meaningful conversations with older students, mentors,
+      and industry professionals. The
 
-
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+      podcast and our other initiatives were started last year under Illuminare,
+      a Junior Achievement company based in Markham run entirely by a group of
+      19 driven highschool students. Illuminare recently won the Company of the
+      Year award fromJunior Achievement Central Ontario for placing as the top
+      social enterprise out of the 53 other youth companies and 1100+ other
+      entrepreneurs in the program. As such, core members of The Kaizen Project
+      have stepped up to continue the podcast even after the program has ended
+      and some of our executives have graduated.
   - type: team_section
     title: Our Team
     team:
