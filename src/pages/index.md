@@ -55,7 +55,7 @@ sections:
             style: secondary
           - label: Spotify
             url: lorem-ipsum
-            style: link
+            style: primary
             new_window: false
             no_follow: false
             type: action
