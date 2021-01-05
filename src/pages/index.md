@@ -7,7 +7,7 @@ sections:
       Here at Kaizen we'll talk about all things student life and career
       development
     actions:
-      - label: Learn More
+      - label: About Us!
         url: /features
         style: primary
       - label: Contact Us
