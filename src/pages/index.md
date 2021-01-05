@@ -53,7 +53,7 @@ sections:
           - label: YouTube
             url: /features
             style: secondary
-          - label: lorem-ipsum
+          - label: Spotify
             url: lorem-ipsum
             style: link
             new_window: false
