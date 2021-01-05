@@ -12,7 +12,7 @@ sections:
 
       podcast and our other initiatives were started last year under Illuminare,
       a Junior Achievement company based in Markham run entirely by a group of
-      19 driven highschool students.  
+      19 driven highschool students. 
 
 
       ***
