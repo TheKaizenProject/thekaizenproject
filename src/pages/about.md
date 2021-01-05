@@ -15,9 +15,6 @@ sections:
       19 driven highschool students.  
 
 
-      ###
-
-
       Illuminare recently won the Company of the Year award from Junior
       Achievement Central Ontario for placing as the top social enterprise out
       of the 53 other youth companies and 1100+ other entrepreneurs in the
