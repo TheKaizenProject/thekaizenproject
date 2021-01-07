@@ -39,9 +39,9 @@ sections:
             style: primary
       - title: Swob
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          **Swob** is an award-winning recruiting platform to help employers in
+          high turnover industries find local talent, using their smart
+          recruiting service.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
