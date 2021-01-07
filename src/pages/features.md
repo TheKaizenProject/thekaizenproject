@@ -25,9 +25,10 @@ sections:
             style: primary
       - title: Feature 2
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          **LEAP Canada** stands for Learn, Empower, Assist, and Prepare, and
+          our mission is to equip students with the knowledge, skills, and
+          connections they need to truly bridge the gap between secondary and
+          post-secondary.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
