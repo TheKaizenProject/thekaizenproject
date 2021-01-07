@@ -34,7 +34,7 @@ sections:
         image_position: left
         actions:
           - label: lorem-ipsum
-            url: lorem-ipsum
+            url: /agility-series
             style: link
             new_window: false
             no_follow: false
