@@ -37,7 +37,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/TKP Logo 2(2).png"
     },
     "footer": {
         "has_nav": true,
