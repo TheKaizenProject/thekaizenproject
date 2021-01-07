@@ -77,14 +77,5 @@ sections:
     title: What's New
     show_recent: true
     recent_count: 3
-  - type: cta_section
-    title: 'Follow us at:'
-    subtitle: ''
-    actions:
-      - label: fab fa-instagram-square
-        url: /features
-        style: primary
-    has_background: true
-    background_color: gray
 template: advanced
 ---
