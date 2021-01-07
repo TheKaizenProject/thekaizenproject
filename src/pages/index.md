@@ -37,9 +37,9 @@ sections:
         image: images/feature.svg
       - title: Partners
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Here at **The Kaizen Project** we're currently working with a wide
+          variety of partners to make sure you get the best, Find out more about
+          our partners through the link below!
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
