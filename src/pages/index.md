@@ -50,9 +50,9 @@ sections:
             style: secondary
       - title: Podcasts
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Welcome back to another episode of **The Kaizen Project!** Hit the
+          links below to find some of our discussions on student life and career
+          development with guest speakers!
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
