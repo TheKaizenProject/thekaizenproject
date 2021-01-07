@@ -5,6 +5,14 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "Agility Series",
+                "url": "/agility-series",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Partners",
                 "url": "/features",
                 "style": "link"
@@ -28,14 +36,6 @@
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "primary"
-            },
-            {
-                "label": "Agility Series",
-                "url": "/agility-series",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
