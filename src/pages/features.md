@@ -35,7 +35,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: 'https://www.leapcanada.org/'
             style: primary
       - title: Swob
         content: >-
