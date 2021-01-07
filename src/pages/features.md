@@ -10,9 +10,11 @@ sections:
     features:
       - title: Beta Camp
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          **BETA Camp** is a business, tech, and entrepreneurship program that
+          trains high school students to become the next generation of business
+          leaders, tech innovators, and ambitious entrepreneurs. BETA Camp is
+          founded and run by industry leaders from Fortune 100 companies and
+          successful tech entrepreneurs in Silicon Valley.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
