@@ -33,7 +33,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: /agility-series
             style: link
             new_window: false
