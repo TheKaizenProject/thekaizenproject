@@ -73,9 +73,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: 'Follow us at:'
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: ''
     actions:
       - label: Learn More
         url: /features
