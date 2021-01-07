@@ -35,7 +35,7 @@ sections:
         actions:
           - label: Learn More
             url: /agility-series
-            style: link
+            style: secondary
             new_window: false
             no_follow: false
             type: action
