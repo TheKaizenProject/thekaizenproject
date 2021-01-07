@@ -38,7 +38,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/TKP Logo 2(2).png"
+        "logo": "images/TKP Logo 2(2).png",
+        "logo_alt": "KAIZEN"
     },
     "footer": {
         "has_nav": true,
