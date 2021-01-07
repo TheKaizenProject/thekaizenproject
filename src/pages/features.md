@@ -21,7 +21,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /about
+            url: beta.camp
             style: primary
       - title: LEAP Canada
         content: >-
