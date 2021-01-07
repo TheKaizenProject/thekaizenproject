@@ -48,7 +48,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /blog
+            url: 'https://www.swobapp.com/'
             style: primary
 template: advanced
 ---
