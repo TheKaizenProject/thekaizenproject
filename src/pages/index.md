@@ -81,7 +81,7 @@ sections:
     title: 'Follow us at:'
     subtitle: ''
     actions:
-      - label: fab fa-instagram-square"></i>
+      - label: fab fa-instagram-square
         url: /features
         style: primary
     has_background: true
