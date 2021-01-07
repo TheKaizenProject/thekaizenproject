@@ -23,7 +23,7 @@ sections:
           - label: Learn More
             url: /about
             style: primary
-      - title: Feature 2
+      - title: LEAP Canada
         content: >-
           **LEAP Canada** stands for Learn, Empower, Assist, and Prepare, and
           our mission is to equip students with the knowledge, skills, and
