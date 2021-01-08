@@ -28,7 +28,15 @@ sections:
     title: ''
     features:
       - title: Agility Series
-        content: hihi
+        content: >-
+          An 8 week, all inclusive series showing you the ins and outs of
+          building a virtual business or startup. Participate in our live
+          interactive workshops showing you new tools and skills, including
+          building an online presence, digital product, and website—all without
+          the need for a single line of code.  Interested in careers in
+          marketing, product design, tech, and more? Join our fireside chats,
+          where you'll hear our guest speakers discuss their journeys in these
+          fields.
         align: left
         image_alt: lorem-ipsum
         image_position: left
