@@ -41,7 +41,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions:
-          - label: Learn More
+          - label: Sign Up
             url: /agility-series
             style: secondary
             new_window: false
