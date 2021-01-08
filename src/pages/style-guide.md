@@ -2,67 +2,16 @@
 title: H1
 template: page
 ---
-
-This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue.
-
-## Quote
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec pretium vulputate sapien nec sagittis aliquam. Turpis massa sed elementum tempus egestas sed sed. Orci a scelerisque purus semper eget duis at tellus at. Lacus luctus accumsan tortor posuere ac. 
-
-> Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Ultrices sagittis orci a scelerisque purus semper eget duis. Pharetra pharetra massa massa ultricies. Felis eget nunc lobortis mattis aliquam. 
-
-## Future Plans
-
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
-
-***
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-## Inline Elements
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-This is [an example](http://example.com) link.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-Inline `code` with `back-ticks around` it.
-
-## Tables
-
-<div class="responsive-table">
-  <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
-    <thead>
-      <tr>
-        <th>Header content 1</th>
-        <th>Header content 2</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Body content 1</td>
-        <td>Body content 2</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td>Footer content 1</td>
-        <td>Footer content 2</td>
-      </tr>
-    </tfoot>
-  </table>
-</div>
+The Kaizen Project Podcast has just finished it’s first season, where we were fortunately
+able to use professional audio recording equipment, try new camera setups, and shoot
+in a number sets across the 9 episodes. Positive reactions from the podcast prompted
+us to launch 2 live webinar series; Spotlight Minds and Spotlight Pathways. The first
+explored the business field, featuring a panel of high level business executives and the
+CEO of Variance Marketing as our keynote speaker. The second featured 8 university
+students, comparing the top programs in Ontario from the fields of engineering,
+computer science, business, and healthcare. In total, we collected over 800 webinar
+registrations and 30,000 watch minutes on YouTube and Spotify. With this strong base,
+we want to start season 2 of The Kaizen Project in 2021 by expanding into
+different styles of videos, forms of content, and exciting campaigns. Our plans include
+vlogs, entertaining career breakdowns, a blog, our own facebook group, an alumni
+network, and any new ideas our members may bring to the table.
