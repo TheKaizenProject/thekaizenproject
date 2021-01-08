@@ -1,5 +1,5 @@
 ---
-title: H1
+title: Future Plans
 template: page
 ---
 The Kaizen Project Podcast has just finished it’s first season, where we were fortunately
