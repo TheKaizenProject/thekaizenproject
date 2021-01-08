@@ -48,7 +48,7 @@ sections:
             no_follow: false
             type: action
         type: feature
-        image: images/feature.svg
+        image: images/133575437_302416411209532_720683748343429253_n.png
       - title: Partners
         content: >-
           Here at **The Kaizen Project** we're currently working with a wide
