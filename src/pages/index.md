@@ -40,13 +40,7 @@ sections:
         align: left
         image_alt: lorem-ipsum
         image_position: left
-        actions:
-          - label: In Construction
-            url: /
-            style: secondary
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: feature
         image: images/133575437_302416411209532_720683748343429253_n.png
       - title: Partners
