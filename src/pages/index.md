@@ -42,7 +42,7 @@ sections:
         image_position: left
         actions:
           - label: In Construction
-            url: /agility-series
+            url: /
             style: secondary
             new_window: false
             no_follow: false
