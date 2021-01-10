@@ -41,7 +41,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: left
         actions:
-          - label: Sign Up
+          - label: In Construction
             url: /agility-series
             style: secondary
             new_window: false
