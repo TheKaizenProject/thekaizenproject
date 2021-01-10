@@ -55,7 +55,7 @@ sections:
           variety of partners to make sure you get the best, Find out more about
           our partners through the link below!
         align: left
-        image: images/feature.svg
+        image: images/Features.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
