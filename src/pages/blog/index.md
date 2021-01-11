@@ -1,7 +1,7 @@
 ---
 title: Blog
 sections:
-  - title: The
+  - title: ''
     content: >-
       ## Lorem ipsum
 
