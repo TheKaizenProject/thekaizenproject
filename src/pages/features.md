@@ -16,7 +16,7 @@ sections:
           founded and run by industry leaders from Fortune 100 companies and
           successful tech entrepreneurs in Silicon Valley.
         align: left
-        image: images/feature.svg
+        image: images/Untitled.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
