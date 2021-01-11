@@ -62,7 +62,7 @@ sections:
           links below to find some of our discussions on student life and career
           development with guest speakers!
         align: left
-        image: images/133568479_816405555586703_9058630909784006176_n.png
+        image: images/iPhone 11 Pro.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
