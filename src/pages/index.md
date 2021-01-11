@@ -42,7 +42,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-        image: images/133575437_302416411209532_720683748343429253_n.png
+        image: images/iPadPro.png
       - title: Partners
         content: >-
           Here at **The Kaizen Project** we're currently working with a wide
