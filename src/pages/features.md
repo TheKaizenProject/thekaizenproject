@@ -43,7 +43,7 @@ sections:
           high turnover industries find local talent, using their smart
           recruiting service.
         align: left
-        image: images/feature.svg
+        image: images/1200x630wa.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
