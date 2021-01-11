@@ -30,7 +30,7 @@ sections:
           connections they need to truly bridge the gap between secondary and
           post-secondary.
         align: left
-        image: images/feature.svg
+        image: images/117823623_153291593073797_3447451479685330610_o.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
