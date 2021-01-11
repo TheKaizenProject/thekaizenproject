@@ -76,7 +76,7 @@ sections:
             no_follow: false
             type: action
   - type: blog_feed_section
-    title: What's New
+    title: ''
     show_recent: true
     recent_count: 3
 template: advanced
