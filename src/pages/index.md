@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: ''
     features:
-      - title: Agility Serie
+      - title: Agility Series
         content: >-
           An 8 week, all inclusive series showing you the ins and outs of
           building a virtual business or startup. Participate in our live
